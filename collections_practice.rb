@@ -45,4 +45,5 @@ end
 
 def add_s(array)
   array.map do |word|
-    
+end
+end
